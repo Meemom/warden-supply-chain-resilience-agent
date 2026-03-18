@@ -1,8 +1,10 @@
 # Warden - Autonomous Supply Chain Resilience Co-Pilot
 
+[![Watch our Demo!]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/FhrWWpVaNP4))
+
 ## Project Overview
 
-Warden is an AI-powered supply chain risk management platform (hackathon project, team: 404-not-found). It monitors disruptions, calculates risk, suggests mitigations, and drafts actions for a fictional company, AutoParts GmbH. Monorepo with `frontend/` (Next.js) and `backend/` (FastAPI).
+Warden is an AI-powered supply chain risk management platform. It monitors disruptions, calculates risk, suggests mitigations, and drafts actions for the user company. Monorepo with `frontend/` (Next.js) and `backend/` (FastAPI).
 
 ## Commands
 
