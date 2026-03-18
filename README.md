@@ -1,6 +1,6 @@
 # Warden - Autonomous Supply Chain Resilience Co-Pilot
 
-[![Watch our Demo!](./frontend/assets/warden_avatar/warden-thumbnail.png)](https://www.youtube.com/watch?v=FhrWWpVaNP4)
+[![Watch our Demo!](./frontend/src/assets/warden_avatar/warden-thumbnail.png)](https://www.youtube.com/watch?v=FhrWWpVaNP4)
 
 ## Project Overview
 
